@@ -64,6 +64,15 @@
 
 ###
 
+<h3 align="left">⚠️ Note about my commit history</h3>
+
+<p align="left">
+There are periods without commits on my GitHub because I was focused on my final year project hosted on <a href="https://gitlab.com/your-gitlab-username" target="_blank" rel="noopener noreferrer">GitLab</a>.  
+Feel free to check my GitLab repository for my latest work.
+</p>
+
+###
+
 <h3 align="left">📊 My GitHub Stats</h3>
 
 ###
@@ -71,4 +80,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=medaziz2002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
