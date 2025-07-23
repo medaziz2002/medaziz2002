@@ -35,7 +35,7 @@
 <p align="left">
 🎓 I'm a software engineering student in Information Systems at <strong>EPISEN – Université Paris-Est Créteil</strong><br><br>
 🚀 I'm interested in <strong>Web Development</strong>, <strong>DevOps</strong>, and <strong>Cloud Computing</strong><br>
-💡 Currently looking for a 24–36 month apprenticeship starting in <strong>September 2024</strong><br>
+💡 Currently looking for a 24–36 month apprenticeship starting in <strong>September 2025</strong><br>
 🌱 I’m currently improving my skills in <strong>Spring Boot</strong>, <strong>Angular</strong>, and <strong>Docker</strong><br>
 ⚡ Fun fact: I love solving algorithmic challenges and building clean UI interfaces!
 </p>
