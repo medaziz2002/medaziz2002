@@ -67,9 +67,10 @@
 <h3 align="left">⚠️ Note about my commit history</h3>
 
 <p align="left">
-There are periods without commits on my GitHub because I was focused on my final year project hosted on <a href="https://gitlab.com/your-gitlab-username" target="_blank" rel="noopener noreferrer">GitLab</a>.  
-Feel free to check my GitLab repository for my latest work.
+There are periods without commits on my GitHub because I was focused on my final year project (PFE), which is hosted privately on GitLab.  
+If you want to know more about this work, feel free to contact me directly.
 </p>
+
 
 ###
 
