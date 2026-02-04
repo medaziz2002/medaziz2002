@@ -23,8 +23,11 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🎓 I'm a student in Security Information Systems at <strong>EPISEN – Université Paris-Est Créteil</strong><br><br>
+🎓 Master of Engineering (MEng) in Cloud Computing & DevOps — <strong>EPISEN – Université Paris-Est Créteil</strong><br><br>
 🚀 I'm interested in <strong>DevOps</strong>, <strong>Cloud Computing</strong>, and <strong>Cloud Security</strong><br>
+🔍 Seeking a <strong>24-month apprenticeship</strong> starting in <strong>September 2026</strong> (Engineering Year 2) / <strong>part-time opportunity</strong><br>
 🌱 I'm currently improving my skills in <strong>DevOps</strong> and <strong>Cloud</strong> through <strong>KodeKloud Engineer</strong><br>
-⚡ "The best way to learn DevOps is by doing it – one challenge at a time"
+⚡ "The best way to learn DevOps is by doing it — one challenge at a time"
 </p>
+
+
